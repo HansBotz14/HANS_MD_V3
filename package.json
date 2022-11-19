@@ -1,5 +1,5 @@
 {
-    "name": "Shiro-md",
+    "name": "Hans-md",
     "version": "3.5.4",
     "description": "Simple Bot WhatsApp",
     "depecrated": false,
@@ -29,10 +29,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Paquito1923/elyasmd.git"
+        "url": "git+https://github.com/HansBotz14/HANS_MD_V3.git"
     },
     "bugs": {
-        "url": "https://github.com/Paquito1923/elyasmd/issues"
+        "url": "https://github.com/HansBotz14/HANS_MD_V3/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
